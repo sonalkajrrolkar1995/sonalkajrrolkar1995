@@ -13,11 +13,6 @@ I am a highly experienced and results-driven Quality Assurance Engineer with 7+ 
 *   Database: Oracle SQL
 *   Methodologies: Agile, Scrum, Kanban.
 
-**What's Included**
-
-*   `README.md`: This file, providing an overview of my portfolio.
-*   `SonalKajrolkar_CV.pdf` (or a similar filename): A PDF copy of my detailed Curriculum Vitae. (Replace with the actual filename of your CV). Consider converting your Markdown CV to PDF.
-
 **How to Connect**
 
 *   LinkedIn: www.linkedin.com/in/sonalkajrrolkar
