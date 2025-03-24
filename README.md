@@ -18,9 +18,4 @@ I am a highly experienced and results-driven Quality Assurance Engineer with 7+ 
 *   LinkedIn: www.linkedin.com/in/sonalkajrrolkar
 *   Email: kajrolkar1995@gmail.com
 
-**Future Enhancements**
-
-*   Examples of test scripts (Selenium, Postman) - Consider adding simple, anonymized examples.
-*   Documentation of testing methodologies used in past projects.
-
 **Thank you for visiting!**
