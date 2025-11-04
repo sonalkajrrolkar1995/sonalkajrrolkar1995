@@ -4,7 +4,7 @@ This repository serves as a portfolio showcasing my experience and expertise in 
 
 **About Me**
 
-I am a highly experienced and results-driven Quality Assurance Engineer with 7+ years of experience in manual and automated software testing within Agile environments. My expertise lies in delivering high-quality software through meticulous test planning, execution, and analysis. I am proficient in utilizing Selenium, Postman, Oracle SQL, Git, GitHub Actions, and Jenkins to build robust and efficient testing solutions.
+I am a highly experienced and results-driven Quality Assurance Engineer in manual and automated software testing within Agile environments. My expertise lies in delivering high-quality software through meticulous test planning, execution, and analysis. I am proficient in utilizing Selenium, Postman, Oracle SQL, Git, GitHub Actions, and Jenkins to build robust and efficient testing solutions.
 
 **Key Skills**
 
